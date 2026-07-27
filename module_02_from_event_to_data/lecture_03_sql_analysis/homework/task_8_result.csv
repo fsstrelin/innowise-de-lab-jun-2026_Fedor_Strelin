@@ -1,0 +1,507 @@
+"product_id";"product_name";"price";"category_id";"class";"modify_timestamp";"resistant";"is_allergic";"vitality_days"
+1;Raspberries Family Pack;28.92;1;C;2025-11-24 21:51:39.000;false;true;124
+2;Pears Classic;30.59;1;A;2025-11-24 21:51:39.000;false;false;81
+3;Blueberries Family Pack;38.33;1;B;2025-11-24 21:51:39.000;true;true;107
+4;Bananas Premium;34.05;1;C;2025-11-24 21:51:39.000;false;true;127
+5;Raspberries Classic;38.95;1;B;2025-11-24 21:51:39.000;true;false;170
+6;White Grapes;8.5;1;A;2025-11-24 21:51:39.000;true;true;84
+7;Bananas Family Pack;34.79;1;B;2025-11-24 21:51:39.000;false;true;172
+8;White Grapes Family Pack;15.44;1;A;2025-11-24 21:51:39.000;false;true;165
+9;Blueberries;29.44;1;A;2025-11-24 21:51:39.000;false;false;79
+10;Raspberries Family Pack #10;27.7;1;A;2025-11-24 21:51:39.000;true;true;90
+11;Plums Premium;3.58;1;C;2025-11-24 21:51:39.000;false;true;177
+12;Kiwi Small Pack;35.5;1;C;2025-11-24 21:51:39.000;false;true;77
+13;Blueberries Family Pack #13;30.05;1;C;2025-11-24 21:51:39.000;false;false;159
+14;Plums Premium #14;9.55;1;A;2025-11-24 21:51:39.000;false;true;22
+15;Bananas Family Pack #15;25.47;1;C;2025-11-24 21:51:39.000;false;true;108
+16;Plums;39.85;1;C;2025-11-24 21:51:39.000;false;true;39
+17;Raspberries Premium;30.98;1;B;2025-11-24 21:51:39.000;true;false;121
+18;Blueberries Small Pack;1.13;1;C;2025-11-24 21:51:39.000;false;true;139
+19;Bananas Premium #19;33.83;1;C;2025-11-24 21:51:39.000;true;true;105
+20;Blueberries #20;38.19;1;C;2025-11-24 21:51:39.000;true;false;135
+21;Red Apples Classic;37.23;1;B;2025-11-24 21:51:39.000;true;true;71
+22;Bananas Classic;29.54;1;A;2025-11-24 21:51:39.000;true;true;178
+23;Kiwi;7.44;1;C;2025-11-24 21:51:39.000;false;true;148
+24;Mandarins Premium;16.56;1;C;2025-11-24 21:51:39.000;false;false;142
+25;Kiwi Classic;10.67;1;A;2025-11-24 21:51:39.000;false;true;160
+26;Raspberries Family Pack #26;23.95;1;A;2025-11-24 21:51:39.000;true;true;68
+27;Bananas Classic #27;34.53;1;A;2025-11-24 21:51:39.000;true;false;134
+28;Mandarins;6.16;1;C;2025-11-24 21:51:39.000;false;true;131
+29;Plums Family Pack;4.68;1;C;2025-11-24 21:51:39.000;false;false;118
+30;Plums Small Pack;34.69;1;A;2025-11-24 21:51:39.000;true;true;113
+31;White Grapes Classic;10.7;1;A;2025-11-24 21:51:39.000;false;true;118
+32;Blueberries Premium;19.04;1;A;2025-11-24 21:51:39.000;false;true;22
+33;Raspberries Classic #33;38.79;1;A;2025-11-24 21:51:39.000;true;false;134
+34;Kiwi Family Pack;34.72;1;A;2025-11-24 21:51:39.000;true;false;10
+35;Plums Premium #35;37.13;1;B;2025-11-24 21:51:39.000;false;false;152
+36;Kiwi Family Pack #36;8.41;1;A;2025-11-24 21:51:39.000;true;true;90
+37;Red Apples Classic #37;23.78;1;C;2025-11-24 21:51:39.000;true;true;140
+38;Bananas Family Pack #38;3.67;1;A;2025-11-24 21:51:39.000;true;false;40
+39;Mandarins #39;24.19;1;C;2025-11-24 21:51:39.000;true;false;178
+40;Raspberries Premium #40;37.45;1;A;2025-11-24 21:51:39.000;false;true;77
+41;Plums Family Pack #41;27.2;1;B;2025-11-24 21:51:39.000;false;false;28
+42;Red Apples Small Pack;25.23;1;C;2025-11-24 21:51:39.000;true;true;147
+43;Mandarins #43;11.34;1;B;2025-11-24 21:51:39.000;true;true;104
+44;Pears Family Pack;18.09;1;C;2025-11-24 21:51:39.000;false;true;180
+45;Raspberries Premium #45;37.34;1;A;2025-11-24 21:51:39.000;true;false;39
+46;Potatoes;7.06;2;B;2025-11-24 21:51:39.000;true;false;62
+47;Spinach Leaves;20.05;2;A;2025-11-24 21:51:39.000;true;false;80
+48;Carrots Classic;14.01;2;A;2025-11-24 21:51:39.000;false;true;123
+49;Zucchini;1.38;2;A;2025-11-24 21:51:39.000;true;true;104
+50;Cucumbers Small Pack;5.97;2;B;2025-11-24 21:51:39.000;false;true;101
+51;Tomatoes Family Pack;27.01;2;B;2025-11-24 21:51:39.000;false;true;70
+52;Cucumbers Family Pack;35.38;2;A;2025-11-24 21:51:39.000;true;false;115
+53;Tomatoes Premium;7.21;2;C;2025-11-24 21:51:39.000;true;false;19
+54;Bell Peppers Family Pack;8.78;2;B;2025-11-24 21:51:39.000;false;false;68
+55;Tomatoes Classic;26.74;2;B;2025-11-24 21:51:39.000;false;false;27
+56;Spinach Leaves Premium;26.02;2;B;2025-11-24 21:51:39.000;false;true;39
+57;Spinach Leaves Family Pack;23.64;2;B;2025-11-24 21:51:39.000;true;true;162
+58;Zucchini Premium;29.41;2;B;2025-11-24 21:51:39.000;false;true;108
+59;Tomatoes Premium #14;2.73;2;B;2025-11-24 21:51:39.000;true;true;103
+60;Zucchini Classic;38.01;2;B;2025-11-24 21:51:39.000;false;true;86
+61;Spinach Leaves Small Pack;13.72;2;C;2025-11-24 21:51:39.000;false;true;59
+62;Zucchini Small Pack;27.42;2;A;2025-11-24 21:51:39.000;false;false;150
+63;Carrots Premium;12.19;2;B;2025-11-24 21:51:39.000;false;false;123
+64;Bell Peppers Family Pack #19;20.94;2;C;2025-11-24 21:51:39.000;true;true;82
+65;Red Onions Classic;32.92;2;A;2025-11-24 21:51:39.000;false;true;60
+66;Cucumbers Classic;2.8;2;B;2025-11-24 21:51:39.000;true;false;116
+67;Tomatoes Small Pack;20.28;2;A;2025-11-24 21:51:39.000;true;true;37
+68;Zucchini Family Pack;7.86;2;C;2025-11-24 21:51:39.000;false;true;152
+69;Tomatoes Classic #24;18.8;2;B;2025-11-24 21:51:39.000;false;false;166
+70;Zucchini #25;18.39;2;A;2025-11-24 21:51:39.000;false;false;76
+71;Tomatoes Premium #26;30.87;2;C;2025-11-24 21:51:39.000;false;true;80
+72;Bell Peppers Classic;28.83;2;A;2025-11-24 21:51:39.000;false;false;91
+73;Potatoes Family Pack;6.88;2;B;2025-11-24 21:51:39.000;true;true;26
+74;Zucchini Small Pack #29;13.9;2;B;2025-11-24 21:51:39.000;false;true;62
+75;Zucchini Small Pack #30;36.29;2;C;2025-11-24 21:51:39.000;true;false;132
+76;Carrots Premium #31;12.65;2;B;2025-11-24 21:51:39.000;false;true;134
+77;Tomatoes Premium #32;18;2;A;2025-11-24 21:51:39.000;false;false;113
+78;Cucumbers Small Pack #33;36.86;2;C;2025-11-24 21:51:39.000;true;false;161
+79;Carrots Classic #34;26.07;2;A;2025-11-24 21:51:39.000;false;true;22
+80;Spinach Leaves Small Pack #35;13.77;2;B;2025-11-24 21:51:39.000;false;false;107
+81;Spinach Leaves Small Pack #36;10.84;2;A;2025-11-24 21:51:39.000;false;true;148
+82;Carrots Premium #37;9.74;2;A;2025-11-24 21:51:39.000;true;true;73
+83;Tomatoes Classic #38;25.23;2;A;2025-11-24 21:51:39.000;true;false;39
+84;Tomatoes Small Pack #39;28.28;2;B;2025-11-24 21:51:39.000;true;true;51
+85;Spinach Leaves Classic;23.57;2;B;2025-11-24 21:51:39.000;false;false;60
+86;Potatoes #41;27.93;2;C;2025-11-24 21:51:39.000;true;true;87
+87;Potatoes #42;31.52;2;B;2025-11-24 21:51:39.000;false;false;27
+88;Red Onions Classic #43;34.13;2;B;2025-11-24 21:51:39.000;true;false;102
+89;Bell Peppers Family Pack #44;17.98;2;C;2025-11-24 21:51:39.000;false;false;129
+90;Zucchini #45;11.47;2;A;2025-11-24 21:51:39.000;true;false;125
+91;Rye Bread Small Pack;23.22;3;C;2025-11-24 21:51:39.000;false;false;17
+92;Seeded Loaf Premium;8.09;3;A;2025-11-24 21:51:39.000;false;false;97
+93;Sourdough Baguette;28.35;3;B;2025-11-24 21:51:39.000;true;true;31
+94;Rye Bread Small Pack #4;20.05;3;A;2025-11-24 21:51:39.000;false;false;124
+95;Wholegrain Bread Classic;12.48;3;B;2025-11-24 21:51:39.000;true;false;179
+96;Buckwheat Bread Premium;19.46;3;C;2025-11-24 21:51:39.000;false;false;150
+97;Sourdough Baguette Premium;28.41;3;B;2025-11-24 21:51:39.000;false;false;69
+98;Wholegrain Bread Family Pack;13.31;3;C;2025-11-24 21:51:39.000;true;true;65
+99;Oat Rolls Small Pack;11.78;3;C;2025-11-24 21:51:39.000;false;true;59
+100;Sourdough Baguette Family Pack;15.07;3;B;2025-11-24 21:51:39.000;true;true;80
+101;Wholegrain Bread Classic #11;22.58;3;C;2025-11-24 21:51:39.000;true;false;36
+102;Wholegrain Bread;12.09;3;B;2025-11-24 21:51:39.000;false;false;57
+103;Wholegrain Bread Premium;37.7;3;B;2025-11-24 21:51:39.000;true;true;112
+104;Seeded Loaf Classic;23.5;3;C;2025-11-24 21:51:39.000;true;true;48
+105;Buckwheat Bread Premium #15;4.32;3;A;2025-11-24 21:51:39.000;true;false;165
+106;Buckwheat Bread;9.8;3;C;2025-11-24 21:51:39.000;false;false;123
+107;Sourdough Baguette #17;39.61;3;B;2025-11-24 21:51:39.000;true;true;63
+108;Oat Rolls Family Pack;11.32;3;A;2025-11-24 21:51:39.000;true;true;54
+109;Buckwheat Bread Classic;7.1;3;B;2025-11-24 21:51:39.000;false;false;84
+110;Wholegrain Bread Family Pack #20;12.24;3;B;2025-11-24 21:51:39.000;false;true;69
+111;Sourdough Baguette #21;26.79;3;A;2025-11-24 21:51:39.000;false;true;149
+112;Rye Bread Family Pack;36.43;3;A;2025-11-24 21:51:39.000;true;true;52
+113;Sourdough Baguette #23;30.21;3;C;2025-11-24 21:51:39.000;false;false;41
+114;Seeded Loaf Premium #24;28.29;3;B;2025-11-24 21:51:39.000;false;false;30
+115;Buckwheat Bread Classic #25;35.69;3;C;2025-11-24 21:51:39.000;false;false;16
+116;Wholegrain Bread Family Pack #26;38.51;3;C;2025-11-24 21:51:39.000;true;false;157
+117;Wholegrain Bread Family Pack #27;19.35;3;C;2025-11-24 21:51:39.000;false;false;56
+118;Buckwheat Bread Small Pack;25.76;3;B;2025-11-24 21:51:39.000;true;false;99
+119;Seeded Loaf Premium #29;13.52;3;A;2025-11-24 21:51:39.000;true;false;115
+120;Oat Rolls Small Pack #30;12.24;3;B;2025-11-24 21:51:39.000;true;false;32
+121;Sourdough Baguette Premium #31;13.61;3;B;2025-11-24 21:51:39.000;true;false;115
+122;Wholegrain Bread Family Pack #32;21.22;3;C;2025-11-24 21:51:39.000;false;false;23
+123;Rye Bread Premium;22.42;3;B;2025-11-24 21:51:39.000;false;false;41
+124;Wholegrain Bread #34;32.17;3;C;2025-11-24 21:51:39.000;true;false;151
+125;Wholegrain Bread #35;16.91;3;A;2025-11-24 21:51:39.000;true;false;40
+126;Rice Drink Family Pack;20.44;4;C;2025-11-24 21:51:39.000;false;false;116
+127;Soy Drink Small Pack;10.51;4;C;2025-11-24 21:51:39.000;true;false;58
+128;Cashew Spread;30.11;4;A;2025-11-24 21:51:39.000;true;false;116
+129;Coconut Yogurt;11.42;4;A;2025-11-24 21:51:39.000;false;false;160
+130;Cashew Spread Small Pack;34.75;4;B;2025-11-24 21:51:39.000;false;false;95
+131;Cashew Spread #6;15.71;4;B;2025-11-24 21:51:39.000;true;true;156
+132;Soy Drink Family Pack;34.38;4;B;2025-11-24 21:51:39.000;true;false;131
+133;Rice Drink Small Pack;16.06;4;C;2025-11-24 21:51:39.000;true;false;19
+134;Oat Milk;38.65;4;B;2025-11-24 21:51:39.000;true;false;35
+135;Cashew Spread Small Pack #10;1.6;4;A;2025-11-24 21:51:39.000;false;true;29
+136;Soy Drink Premium;14.2;4;C;2025-11-24 21:51:39.000;false;true;94
+137;Rice Drink;15.82;4;B;2025-11-24 21:51:39.000;false;true;168
+138;Almond Milk Family Pack;25.62;4;B;2025-11-24 21:51:39.000;true;true;121
+139;Almond Milk Classic;18.3;4;C;2025-11-24 21:51:39.000;false;true;21
+140;Coconut Yogurt Classic;12.44;4;B;2025-11-24 21:51:39.000;false;true;72
+141;Cashew Spread Small Pack #16;23.07;4;A;2025-11-24 21:51:39.000;true;true;30
+142;Cashew Spread Small Pack #17;25.17;4;A;2025-11-24 21:51:39.000;false;true;69
+143;Soy Drink Premium #18;18.92;4;C;2025-11-24 21:51:39.000;true;false;83
+144;Rice Drink #19;7.16;4;B;2025-11-24 21:51:39.000;false;false;173
+145;Soy Drink Premium #20;18.82;4;B;2025-11-24 21:51:39.000;true;false;133
+146;Almond Milk Family Pack #21;15.87;4;B;2025-11-24 21:51:39.000;false;false;15
+147;Rice Drink Small Pack #22;11.7;4;C;2025-11-24 21:51:39.000;true;false;83
+148;Oat Milk #23;32.28;4;A;2025-11-24 21:51:39.000;true;false;178
+149;Rice Drink Family Pack #24;25.5;4;C;2025-11-24 21:51:39.000;true;false;122
+150;Almond Milk;15.23;4;A;2025-11-24 21:51:39.000;true;false;93
+151;Rice Drink Small Pack #26;7.85;4;A;2025-11-24 21:51:39.000;false;false;52
+152;Coconut Yogurt Small Pack;38.73;4;B;2025-11-24 21:51:39.000;false;true;129
+153;Almond Milk Family Pack #28;30.41;4;A;2025-11-24 21:51:39.000;false;false;33
+154;Soy Drink Classic;11.31;4;A;2025-11-24 21:51:39.000;false;false;77
+155;Cashew Spread Small Pack #30;33.07;4;B;2025-11-24 21:51:39.000;true;true;130
+156;Almond Milk #31;35.49;4;C;2025-11-24 21:51:39.000;false;true;175
+157;Almond Milk Small Pack;36.47;4;B;2025-11-24 21:51:39.000;false;true;45
+158;Almond Milk Classic #33;12.87;4;B;2025-11-24 21:51:39.000;true;true;70
+159;Cashew Spread Family Pack;16.16;4;B;2025-11-24 21:51:39.000;false;true;116
+160;Rice Drink Classic;33.51;4;C;2025-11-24 21:51:39.000;false;false;18
+161;Beef Sirloin Premium;9.47;5;B;2025-11-24 21:51:39.000;true;false;35
+162;Beef Sirloin Premium #2;22.23;5;C;2025-11-24 21:51:39.000;false;true;111
+163;Turkey Fillet Family Pack;38.76;5;B;2025-11-24 21:51:39.000;true;true;174
+164;Beef Sirloin;38.87;5;A;2025-11-24 21:51:39.000;false;true;42
+165;Chicken Thighs Family Pack;3.68;5;C;2025-11-24 21:51:39.000;true;true;69
+166;Turkey Fillet Family Pack #6;31.76;5;C;2025-11-24 21:51:39.000;true;false;47
+167;Beef Mince;10.78;5;A;2025-11-24 21:51:39.000;true;true;43
+168;Chicken Breast Premium;31.81;5;A;2025-11-24 21:51:39.000;false;true;54
+169;Turkey Fillet Classic;5.94;5;B;2025-11-24 21:51:39.000;true;true;131
+170;Pork Tenderloin Premium;21.02;5;A;2025-11-24 21:51:39.000;false;true;167
+171;Chicken Breast;12.76;5;C;2025-11-24 21:51:39.000;true;true;132
+172;Pork Tenderloin Small Pack;27.76;5;B;2025-11-24 21:51:39.000;false;true;30
+173;Turkey Fillet;6.79;5;A;2025-11-24 21:51:39.000;false;false;107
+174;Chicken Thighs;12.5;5;C;2025-11-24 21:51:39.000;false;true;39
+175;Beef Sirloin #15;29.11;5;A;2025-11-24 21:51:39.000;false;false;68
+176;Pork Tenderloin Premium #16;33.27;5;B;2025-11-24 21:51:39.000;false;true;90
+177;Pork Tenderloin Premium #17;26.94;5;B;2025-11-24 21:51:39.000;true;false;27
+178;Chicken Breast Classic;4.64;5;A;2025-11-24 21:51:39.000;false;true;152
+179;Chicken Breast #19;38.31;5;C;2025-11-24 21:51:39.000;false;true;115
+180;Turkey Fillet Small Pack;34.86;5;C;2025-11-24 21:51:39.000;true;false;163
+181;Turkey Fillet Premium;5.04;5;C;2025-11-24 21:51:39.000;true;true;178
+182;Pork Tenderloin Family Pack;34.04;5;B;2025-11-24 21:51:39.000;false;true;81
+183;Chicken Thighs Family Pack #23;32.48;5;C;2025-11-24 21:51:39.000;true;false;17
+184;Beef Mince Premium;28.41;5;B;2025-11-24 21:51:39.000;false;false;11
+185;Beef Mince Family Pack;23.09;5;B;2025-11-24 21:51:39.000;true;true;172
+186;Chicken Breast Classic #26;30.1;5;A;2025-11-24 21:51:39.000;false;false;126
+187;Turkey Fillet Family Pack #27;15.43;5;C;2025-11-24 21:51:39.000;false;true;23
+188;Beef Mince Family Pack #28;30.42;5;A;2025-11-24 21:51:39.000;true;false;123
+189;Beef Sirloin Small Pack;19.94;5;B;2025-11-24 21:51:39.000;false;false;65
+190;Chicken Thighs Classic;14.46;5;A;2025-11-24 21:51:39.000;false;false;144
+191;Beef Sirloin Premium #31;2.77;5;B;2025-11-24 21:51:39.000;true;true;62
+192;Turkey Fillet Family Pack #32;30.93;5;B;2025-11-24 21:51:39.000;false;false;40
+193;Chicken Breast Small Pack;30.13;5;A;2025-11-24 21:51:39.000;true;false;146
+194;Beef Sirloin Family Pack;20.51;5;C;2025-11-24 21:51:39.000;false;true;111
+195;Beef Sirloin Classic;18.01;5;B;2025-11-24 21:51:39.000;true;false;157
+196;Pork Tenderloin;16.77;5;C;2025-11-24 21:51:39.000;false;false;39
+197;Pork Tenderloin Classic;38.68;5;A;2025-11-24 21:51:39.000;false;false;32
+198;Pork Tenderloin Classic #38;10.49;5;C;2025-11-24 21:51:39.000;false;true;111
+199;Turkey Fillet Premium #39;9.64;5;A;2025-11-24 21:51:39.000;true;true;145
+200;Chicken Thighs Family Pack #40;36.33;5;B;2025-11-24 21:51:39.000;false;true;70
+201;Salmon Fillet Family Pack;10.98;6;A;2025-11-24 21:51:39.000;true;true;55
+202;Trout Small Pack;19.09;6;C;2025-11-24 21:51:39.000;false;false;170
+203;Sardines Family Pack;18.15;6;B;2025-11-24 21:51:39.000;false;false;80
+204;Cod Fillet Classic;14.73;6;A;2025-11-24 21:51:39.000;false;false;125
+205;Salmon Fillet Classic;15.38;6;B;2025-11-24 21:51:39.000;true;true;167
+206;Cod Fillet;15.99;6;C;2025-11-24 21:51:39.000;true;false;156
+207;Trout Family Pack;13.54;6;B;2025-11-24 21:51:39.000;true;true;125
+208;Salmon Fillet Premium;39.31;6;A;2025-11-24 21:51:39.000;true;true;73
+209;Trout Small Pack #9;39.65;6;C;2025-11-24 21:51:39.000;true;false;105
+210;Sardines Small Pack;16.94;6;B;2025-11-24 21:51:39.000;true;false;26
+211;Sardines Classic;22.76;6;B;2025-11-24 21:51:39.000;false;false;178
+212;Cod Fillet Family Pack;14;6;C;2025-11-24 21:51:39.000;true;false;89
+213;Trout Small Pack #13;6.03;6;C;2025-11-24 21:51:39.000;true;false;153
+214;Tuna Fillet Premium;32.71;6;C;2025-11-24 21:51:39.000;true;false;140
+215;Sardines Classic #15;15.14;6;A;2025-11-24 21:51:39.000;true;false;134
+216;Shrimp Cleaned Family Pack;40;6;A;2025-11-24 21:51:39.000;true;false;35
+217;Cod Fillet #17;33.57;6;C;2025-11-24 21:51:39.000;true;false;168
+218;Shrimp Cleaned;15.69;6;A;2025-11-24 21:51:39.000;true;true;122
+219;Salmon Fillet Small Pack;15.21;6;C;2025-11-24 21:51:39.000;true;false;166
+220;Sardines Small Pack #20;10.13;6;A;2025-11-24 21:51:39.000;false;false;59
+221;Sardines;39.39;6;B;2025-11-24 21:51:39.000;false;false;138
+222;Cod Fillet Small Pack;38.68;6;A;2025-11-24 21:51:39.000;true;false;23
+223;Trout Small Pack #23;35.09;6;C;2025-11-24 21:51:39.000;true;true;82
+224;Salmon Fillet Family Pack #24;11.64;6;C;2025-11-24 21:51:39.000;true;false;33
+225;Shrimp Cleaned Small Pack;35.5;6;A;2025-11-24 21:51:39.000;false;true;111
+226;Cod Fillet Premium;10.2;6;A;2025-11-24 21:51:39.000;false;true;17
+227;Sardines Classic #27;33.73;6;C;2025-11-24 21:51:39.000;false;true;45
+228;Salmon Fillet Premium #28;36.78;6;B;2025-11-24 21:51:39.000;true;false;124
+229;Cod Fillet Classic #29;36.33;6;A;2025-11-24 21:51:39.000;false;true;48
+230;Cod Fillet #30;21.58;6;A;2025-11-24 21:51:39.000;false;true;87
+231;Salmon Fillet Classic #31;10.3;6;C;2025-11-24 21:51:39.000;false;true;38
+232;Tuna Fillet;21.91;6;C;2025-11-24 21:51:39.000;true;true;84
+233;Tuna Fillet Classic;24.98;6;A;2025-11-24 21:51:39.000;false;true;180
+234;Trout Classic;21.42;6;B;2025-11-24 21:51:39.000;true;true;109
+235;Tuna Fillet Classic #35;25.79;6;B;2025-11-24 21:51:39.000;false;true;101
+236;Kombucha Premium;10.4;7;C;2025-11-24 21:51:39.000;true;false;44
+237;Kombucha Premium #2;22.29;7;C;2025-11-24 21:51:39.000;true;false;132
+238;Ginger Shot Family Pack;32.65;7;A;2025-11-24 21:51:39.000;false;true;85
+239;Cold Pressed Orange Juice Classic;31.85;7;A;2025-11-24 21:51:39.000;false;false;141
+240;Probiotic Kefir;19.46;7;A;2025-11-24 21:51:39.000;true;false;101
+241;Kombucha Premium #6;11.66;7;B;2025-11-24 21:51:39.000;false;false;122
+242;Probiotic Kefir Premium;38.98;7;B;2025-11-24 21:51:39.000;false;false;142
+243;Mineral Water Classic;29.36;7;A;2025-11-24 21:51:39.000;false;true;149
+244;Mineral Water Premium;5;7;B;2025-11-24 21:51:39.000;false;false;124
+245;Apple Juice Cloudy Small Pack;7.5;7;B;2025-11-24 21:51:39.000;false;false;20
+246;Ginger Shot Premium;24.98;7;B;2025-11-24 21:51:39.000;false;true;29
+247;Ginger Shot Small Pack;15.17;7;C;2025-11-24 21:51:39.000;true;true;46
+248;Apple Juice Cloudy Small Pack #13;2.36;7;A;2025-11-24 21:51:39.000;true;false;102
+249;Probiotic Kefir #14;2.26;7;A;2025-11-24 21:51:39.000;false;false;105
+250;Probiotic Kefir Classic;23.38;7;C;2025-11-24 21:51:39.000;false;false;90
+251;Ginger Shot Premium #16;10.73;7;A;2025-11-24 21:51:39.000;true;true;137
+252;Apple Juice Cloudy Small Pack #17;36.63;7;A;2025-11-24 21:51:39.000;false;false;124
+253;Cold Pressed Orange Juice;12.14;7;B;2025-11-24 21:51:39.000;true;true;44
+254;Kombucha Small Pack;7.73;7;C;2025-11-24 21:51:39.000;false;true;91
+255;Ginger Shot Premium #20;28.67;7;C;2025-11-24 21:51:39.000;false;false;50
+256;Ginger Shot Family Pack #21;31.95;7;C;2025-11-24 21:51:39.000;true;true;61
+257;Cold Pressed Orange Juice Family Pack;31.82;7;A;2025-11-24 21:51:39.000;false;false;129
+258;Apple Juice Cloudy Family Pack;24.87;7;A;2025-11-24 21:51:39.000;true;false;111
+259;Ginger Shot Small Pack #24;21.5;7;B;2025-11-24 21:51:39.000;true;true;91
+260;Ginger Shot Classic;18.55;7;C;2025-11-24 21:51:39.000;false;true;151
+261;Ginger Shot;8.1;7;A;2025-11-24 21:51:39.000;false;true;41
+262;Apple Juice Cloudy Family Pack #27;12.86;7;A;2025-11-24 21:51:39.000;false;true;98
+263;Apple Juice Cloudy Premium;33.99;7;B;2025-11-24 21:51:39.000;true;false;42
+264;Ginger Shot Premium #29;24.96;7;A;2025-11-24 21:51:39.000;true;true;53
+265;Ginger Shot #30;29.1;7;C;2025-11-24 21:51:39.000;false;true;17
+266;Kombucha Classic;37.99;7;C;2025-11-24 21:51:39.000;false;true;156
+267;Probiotic Kefir #32;25.92;7;B;2025-11-24 21:51:39.000;false;false;133
+268;Cold Pressed Orange Juice Small Pack;12.6;7;A;2025-11-24 21:51:39.000;true;true;122
+269;Probiotic Kefir Small Pack;19.11;7;B;2025-11-24 21:51:39.000;true;false;91
+270;Ginger Shot Premium #35;39.04;7;A;2025-11-24 21:51:39.000;false;true;91
+271;Dried Mango Small Pack;5.78;8;B;2025-11-24 21:51:39.000;true;true;34
+272;Mixed Nuts Premium;37.87;8;C;2025-11-24 21:51:39.000;false;true;50
+273;Granola Bar;29.12;8;A;2025-11-24 21:51:39.000;true;false;141
+274;Trail Mix Small Pack;35.28;8;B;2025-11-24 21:51:39.000;true;true;110
+275;Nut Bar Small Pack;38.7;8;A;2025-11-24 21:51:39.000;false;true;22
+276;Granola Bar Small Pack;24.3;8;C;2025-11-24 21:51:39.000;false;false;147
+277;Mixed Nuts Classic;17.81;8;B;2025-11-24 21:51:39.000;false;false;103
+278;Mixed Nuts Small Pack;3;8;C;2025-11-24 21:51:39.000;true;false;151
+279;Granola Bar Classic;16.07;8;B;2025-11-24 21:51:39.000;false;true;42
+280;Mixed Nuts Small Pack #10;15.55;8;B;2025-11-24 21:51:39.000;false;true;60
+281;Nut Bar;16.65;8;A;2025-11-24 21:51:39.000;true;true;45
+282;Sesame Crackers Premium;32.35;8;C;2025-11-24 21:51:39.000;false;true;165
+283;Nut Bar Family Pack;13.79;8;C;2025-11-24 21:51:39.000;false;true;110
+284;Nut Bar Premium;24.16;8;C;2025-11-24 21:51:39.000;false;false;131
+285;Mixed Nuts Premium #15;13.92;8;A;2025-11-24 21:51:39.000;false;false;171
+286;Mixed Nuts;19.51;8;C;2025-11-24 21:51:39.000;true;true;159
+287;Trail Mix Family Pack;21.45;8;C;2025-11-24 21:51:39.000;false;true;72
+288;Mixed Nuts #18;37.98;8;A;2025-11-24 21:51:39.000;true;true;122
+289;Granola Bar Small Pack #19;6.91;8;C;2025-11-24 21:51:39.000;true;false;138
+290;Nut Bar Small Pack #20;35.04;8;C;2025-11-24 21:51:39.000;true;true;142
+291;Dried Mango;13.68;8;C;2025-11-24 21:51:39.000;false;false;90
+292;Dried Mango Small Pack #22;36.57;8;B;2025-11-24 21:51:39.000;false;false;166
+293;Trail Mix Family Pack #23;38.34;8;B;2025-11-24 21:51:39.000;false;true;86
+294;Granola Bar Family Pack;27.92;8;B;2025-11-24 21:51:39.000;false;false;99
+295;Nut Bar Premium #25;12.22;8;C;2025-11-24 21:51:39.000;false;false;98
+296;Dried Mango Premium;2.64;8;C;2025-11-24 21:51:39.000;true;false;123
+297;Sesame Crackers Premium #27;30.15;8;A;2025-11-24 21:51:39.000;true;false;153
+298;Sesame Crackers Premium #28;6.35;8;C;2025-11-24 21:51:39.000;true;true;22
+299;Sesame Crackers;9.8;8;A;2025-11-24 21:51:39.000;true;true;115
+300;Granola Bar Small Pack #30;4.92;8;A;2025-11-24 21:51:39.000;true;true;114
+301;Sesame Crackers Small Pack;19.62;8;A;2025-11-24 21:51:39.000;false;false;83
+302;Sesame Crackers Classic;36.41;8;A;2025-11-24 21:51:39.000;true;true;54
+303;Trail Mix Family Pack #33;37.42;8;A;2025-11-24 21:51:39.000;false;false;57
+304;Sesame Crackers Premium #34;35.19;8;A;2025-11-24 21:51:39.000;false;true;95
+305;Granola Bar Small Pack #35;39.57;8;C;2025-11-24 21:51:39.000;false;true;139
+306;Frozen Peas Premium;8.52;9;A;2025-11-24 21:51:39.000;false;true;127
+307;Berry Mix Family Pack;1.55;9;B;2025-11-24 21:51:39.000;false;true;54
+308;Frozen Vegetable Mix Small Pack;33.25;9;C;2025-11-24 21:51:39.000;false;true;112
+309;Frozen Spinach Family Pack;39.29;9;B;2025-11-24 21:51:39.000;false;true;11
+310;Berry Mix Small Pack;10.19;9;B;2025-11-24 21:51:39.000;false;false;159
+311;Frozen Vegetable Mix Classic;11.2;9;B;2025-11-24 21:51:39.000;true;true;180
+312;Frozen Spinach Small Pack;12.97;9;B;2025-11-24 21:51:39.000;false;true;173
+313;Berry Mix Premium;24.97;9;A;2025-11-24 21:51:39.000;true;false;49
+314;Frozen Peas;15.57;9;C;2025-11-24 21:51:39.000;false;true;73
+315;Frozen Vegetable Mix Classic #10;21.49;9;C;2025-11-24 21:51:39.000;false;true;154
+316;Frozen Spinach Classic;33.32;9;C;2025-11-24 21:51:39.000;true;true;52
+317;Berry Mix;18.23;9;C;2025-11-24 21:51:39.000;true;false;33
+318;Frozen Vegetable Mix Small Pack #13;32.54;9;B;2025-11-24 21:51:39.000;true;false;126
+319;Frozen Vegetable Mix Classic #14;22.79;9;C;2025-11-24 21:51:39.000;false;true;111
+320;Berry Mix Classic;30.09;9;C;2025-11-24 21:51:39.000;true;true;118
+321;Berry Mix Classic #16;22.11;9;A;2025-11-24 21:51:39.000;true;false;18
+322;Berry Mix Small Pack #17;8.02;9;A;2025-11-24 21:51:39.000;false;false;107
+323;Frozen Peas Small Pack;15.65;9;C;2025-11-24 21:51:39.000;true;false;40
+324;Frozen Broccoli;16.33;9;A;2025-11-24 21:51:39.000;true;true;15
+325;Berry Mix Small Pack #20;27.27;9;C;2025-11-24 21:51:39.000;false;false;68
+326;Frozen Broccoli Small Pack;14.5;9;B;2025-11-24 21:51:39.000;true;true;18
+327;Frozen Peas #22;30.88;9;A;2025-11-24 21:51:39.000;true;true;27
+328;Frozen Spinach;2.31;9;C;2025-11-24 21:51:39.000;true;true;21
+329;Frozen Peas Small Pack #24;10.14;9;A;2025-11-24 21:51:39.000;true;true;138
+330;Berry Mix Family Pack #25;32.82;9;C;2025-11-24 21:51:39.000;false;false;70
+331;Berry Mix Family Pack #26;39.44;9;C;2025-11-24 21:51:39.000;true;false;86
+332;Berry Mix Classic #27;22.71;9;C;2025-11-24 21:51:39.000;true;false;152
+333;Frozen Peas Classic;38.92;9;C;2025-11-24 21:51:39.000;false;false;116
+334;Frozen Peas Family Pack;12.7;9;A;2025-11-24 21:51:39.000;false;true;67
+335;Berry Mix Family Pack #30;32.43;9;A;2025-11-24 21:51:39.000;false;false;152
+336;Glass Cleaner Family Pack;16.15;10;B;2025-11-24 21:51:39.000;true;false;175
+337;Dish Soap Small Pack;34.04;10;A;2025-11-24 21:51:39.000;true;true;78
+338;Laundry Detergent;24.51;10;A;2025-11-24 21:51:39.000;true;true;132
+339;Trash Bags Biodegradable Premium;12.82;10;A;2025-11-24 21:51:39.000;true;true;40
+340;Laundry Detergent Family Pack;28.13;10;C;2025-11-24 21:51:39.000;true;false;71
+341;Glass Cleaner Premium;31.25;10;B;2025-11-24 21:51:39.000;false;false;88
+342;Bamboo Paper Towels Premium;21;10;B;2025-11-24 21:51:39.000;false;true;130
+343;Bamboo Paper Towels Family Pack;15.46;10;B;2025-11-24 21:51:39.000;true;true;47
+344;Dish Soap Premium;22.58;10;C;2025-11-24 21:51:39.000;false;false;49
+345;Trash Bags Biodegradable Premium #10;9.97;10;C;2025-11-24 21:51:39.000;true;false;150
+346;Bamboo Paper Towels Premium #11;30.77;10;B;2025-11-24 21:51:39.000;false;false;53
+347;Bamboo Paper Towels Family Pack #12;6.46;10;C;2025-11-24 21:51:39.000;false;true;148
+348;Dish Soap;2.32;10;A;2025-11-24 21:51:39.000;true;true;115
+349;Trash Bags Biodegradable Family Pack;3.65;10;A;2025-11-24 21:51:39.000;true;true;139
+350;Laundry Detergent Premium;3.36;10;C;2025-11-24 21:51:39.000;false;false;14
+351;Dish Soap #16;22.51;10;A;2025-11-24 21:51:39.000;true;false;147
+352;Bamboo Paper Towels Classic;20.59;10;C;2025-11-24 21:51:39.000;false;true;37
+353;Dish Soap #18;6.81;10;A;2025-11-24 21:51:39.000;false;false;78
+354;Laundry Detergent Classic;15.55;10;B;2025-11-24 21:51:39.000;false;true;67
+355;Bamboo Paper Towels Classic #20;26.5;10;C;2025-11-24 21:51:39.000;true;true;113
+356;Laundry Detergent Small Pack;22.56;10;A;2025-11-24 21:51:39.000;true;true;31
+357;Laundry Detergent Small Pack #22;26.15;10;B;2025-11-24 21:51:39.000;true;true;68
+358;Trash Bags Biodegradable;19.54;10;A;2025-11-24 21:51:39.000;true;false;149
+359;Glass Cleaner Classic;7.99;10;B;2025-11-24 21:51:39.000;true;true;160
+360;Trash Bags Biodegradable Small Pack;37.23;10;B;2025-11-24 21:51:39.000;true;true;155
+361;Laundry Detergent #26;13.94;10;C;2025-11-24 21:51:39.000;true;true;138
+362;Bamboo Paper Towels Classic #27;4.81;10;A;2025-11-24 21:51:39.000;true;false;164
+363;Glass Cleaner;16.47;10;B;2025-11-24 21:51:39.000;true;false;125
+364;Laundry Detergent Family Pack #29;14.88;10;B;2025-11-24 21:51:39.000;false;true;159
+365;Laundry Detergent Classic #30;31.11;10;B;2025-11-24 21:51:39.000;true;true;31
+366;Body Lotion Mild Family Pack;15.82;11;C;2025-11-24 21:51:39.000;true;false;91
+367;Body Lotion Mild Classic;4.57;11;B;2025-11-24 21:51:39.000;false;false;79
+368;Shampoo Herbal Family Pack;4.4;11;B;2025-11-24 21:51:39.000;false;false;36
+369;Shampoo Herbal Classic;14.8;11;A;2025-11-24 21:51:39.000;false;false;13
+370;Body Lotion Mild Small Pack;16.12;11;A;2025-11-24 21:51:39.000;true;true;107
+371;Toothpaste Natural Family Pack;11.49;11;B;2025-11-24 21:51:39.000;false;true;26
+372;Toothpaste Natural Small Pack;11.76;11;B;2025-11-24 21:51:39.000;false;true;102
+373;Body Lotion Mild Family Pack #8;29.12;11;B;2025-11-24 21:51:39.000;true;false;37
+374;Toothpaste Natural Premium;1.26;11;B;2025-11-24 21:51:39.000;false;false;94
+375;Hand Cream Premium;17.79;11;C;2025-11-24 21:51:39.000;true;false;92
+376;Face Wash Gentle Family Pack;19.68;11;A;2025-11-24 21:51:39.000;false;false;84
+377;Hand Cream;31.5;11;B;2025-11-24 21:51:39.000;false;false;110
+378;Body Lotion Mild Classic #13;37.35;11;A;2025-11-24 21:51:39.000;true;true;128
+379;Toothpaste Natural Small Pack #14;32.11;11;C;2025-11-24 21:51:39.000;true;false;137
+380;Toothpaste Natural Premium #15;10.44;11;C;2025-11-24 21:51:39.000;true;false;106
+381;Shampoo Herbal Small Pack;39.64;11;B;2025-11-24 21:51:39.000;false;false;149
+382;Shampoo Herbal Premium;28.36;11;C;2025-11-24 21:51:39.000;true;true;73
+383;Body Lotion Mild Family Pack #18;26.23;11;A;2025-11-24 21:51:39.000;false;false;120
+384;Shampoo Herbal Classic #19;4.85;11;A;2025-11-24 21:51:39.000;true;false;105
+385;Hand Cream Small Pack;31.12;11;C;2025-11-24 21:51:39.000;true;false;16
+386;Hand Cream Classic;12.52;11;A;2025-11-24 21:51:39.000;true;true;99
+387;Body Lotion Mild Premium;18.76;11;A;2025-11-24 21:51:39.000;false;false;131
+388;Shampoo Herbal Small Pack #23;29.16;11;B;2025-11-24 21:51:39.000;false;true;86
+389;Shampoo Herbal Classic #24;1.88;11;B;2025-11-24 21:51:39.000;true;true;72
+390;Face Wash Gentle Family Pack #25;22.52;11;B;2025-11-24 21:51:39.000;false;false;69
+391;Hand Cream Family Pack;8.27;11;C;2025-11-24 21:51:39.000;false;false;17
+392;Face Wash Gentle Family Pack #27;18.53;11;B;2025-11-24 21:51:39.000;false;true;64
+393;Toothpaste Natural Premium #28;30.34;11;A;2025-11-24 21:51:39.000;true;true;103
+394;Body Lotion Mild Family Pack #29;18.84;11;B;2025-11-24 21:51:39.000;false;false;162
+395;Hand Cream #30;16.31;11;A;2025-11-24 21:51:39.000;false;false;127
+396;Baby Bath Foam Family Pack;32.74;12;C;2025-11-24 21:51:39.000;false;true;44
+397;Baby Wet Wipes Classic;10.3;12;A;2025-11-24 21:51:39.000;true;false;46
+398;Baby Bath Foam Small Pack;17.31;12;A;2025-11-24 21:51:39.000;false;false;57
+399;Baby Cereal;28.04;12;C;2025-11-24 21:51:39.000;true;true;135
+400;Baby Wet Wipes Family Pack;8.3;12;B;2025-11-24 21:51:39.000;true;false;12
+401;Baby Cereal Family Pack;8.61;12;B;2025-11-24 21:51:39.000;false;false;135
+402;Baby Cereal Small Pack;20.06;12;A;2025-11-24 21:51:39.000;true;true;84
+403;Baby Puree Apple Premium;9.77;12;B;2025-11-24 21:51:39.000;true;false;154
+404;Baby Cereal #9;20.92;12;C;2025-11-24 21:51:39.000;true;false;149
+405;Baby Wet Wipes;33.08;12;A;2025-11-24 21:51:39.000;false;true;118
+406;Baby Puree Apple Family Pack;12.61;12;A;2025-11-24 21:51:39.000;false;false;99
+407;Baby Puree Apple Small Pack;34.75;12;A;2025-11-24 21:51:39.000;true;true;160
+408;Baby Wet Wipes #13;25.68;12;A;2025-11-24 21:51:39.000;true;true;62
+409;Baby Puree Apple;14.68;12;B;2025-11-24 21:51:39.000;true;false;84
+410;Baby Wet Wipes #15;11.43;12;C;2025-11-24 21:51:39.000;true;true;115
+411;Baby Puree Apple Premium #16;34.81;12;A;2025-11-24 21:51:39.000;true;true;47
+412;Baby Wet Wipes Family Pack #17;30.7;12;C;2025-11-24 21:51:39.000;false;false;46
+413;Baby Bath Foam Premium;25.48;12;B;2025-11-24 21:51:39.000;false;true;172
+414;Baby Puree Apple Small Pack #19;21.11;12;B;2025-11-24 21:51:39.000;false;false;134
+415;Baby Wet Wipes #20;1.1;12;C;2025-11-24 21:51:39.000;true;false;172
+416;Baby Wet Wipes Classic #21;32.03;12;B;2025-11-24 21:51:39.000;true;false;64
+417;Baby Cereal Premium;13.59;12;B;2025-11-24 21:51:39.000;false;true;154
+418;Baby Cereal Premium #23;35.87;12;A;2025-11-24 21:51:39.000;true;true;170
+419;Baby Cereal Classic;5.85;12;A;2025-11-24 21:51:39.000;false;false;10
+420;Baby Cereal Family Pack #25;39.83;12;A;2025-11-24 21:51:39.000;false;true;80
+421;Dog Food Grain Free Premium;10.77;13;B;2025-11-24 21:51:39.000;true;true;111
+422;Cat Treats Soft Family Pack;17.74;13;A;2025-11-24 21:51:39.000;true;true;64
+423;Dog Snacks Chewy Classic;6.18;13;A;2025-11-24 21:51:39.000;false;true;12
+424;Cat Treats Soft Classic;39.54;13;B;2025-11-24 21:51:39.000;true;false;28
+425;Cat Food Salmon Small Pack;4.48;13;A;2025-11-24 21:51:39.000;true;false;104
+426;Cat Treats Soft Family Pack #6;15.93;13;A;2025-11-24 21:51:39.000;true;true;145
+427;Dog Food Grain Free;26.35;13;B;2025-11-24 21:51:39.000;false;true;170
+428;Cat Food Salmon Small Pack #8;25.03;13;B;2025-11-24 21:51:39.000;true;true;35
+429;Cat Food Salmon Classic;23.99;13;B;2025-11-24 21:51:39.000;false;false;90
+430;Cat Food Salmon Family Pack;11.8;13;A;2025-11-24 21:51:39.000;true;false;16
+431;Cat Treats Soft Family Pack #11;21.19;13;C;2025-11-24 21:51:39.000;true;false;85
+432;Dog Food Grain Free Family Pack;20.3;13;A;2025-11-24 21:51:39.000;true;false;173
+433;Dog Food Grain Free #13;35.66;13;A;2025-11-24 21:51:39.000;false;false;43
+434;Dog Snacks Chewy;17.41;13;C;2025-11-24 21:51:39.000;true;false;28
+435;Dog Food Grain Free #15;3.63;13;B;2025-11-24 21:51:39.000;true;true;25
+436;Dog Snacks Chewy #16;12.17;13;C;2025-11-24 21:51:39.000;false;false;112
+437;Dog Food Grain Free #17;21.97;13;A;2025-11-24 21:51:39.000;false;true;89
+438;Dog Food Grain Free #18;36.92;13;A;2025-11-24 21:51:39.000;false;false;160
+439;Dog Food Grain Free Premium #19;28.25;13;C;2025-11-24 21:51:39.000;true;true;72
+440;Dog Food Grain Free Small Pack;5.52;13;C;2025-11-24 21:51:39.000;true;false;180
+441;Cat Food Salmon Classic #21;1.49;13;A;2025-11-24 21:51:39.000;true;true;137
+442;Cat Treats Soft;21.17;13;C;2025-11-24 21:51:39.000;false;true;105
+443;Cat Food Salmon Premium;29.58;13;A;2025-11-24 21:51:39.000;true;false;119
+444;Cat Treats Soft #24;3.49;13;C;2025-11-24 21:51:39.000;true;false;126
+445;Cat Treats Soft Classic #25;20.48;13;C;2025-11-24 21:51:39.000;true;false;50
+446;Tomato Sauce Jar Classic;35.88;14;C;2025-11-24 21:51:39.000;true;true;140
+447;Beans in Water Classic;34.49;14;A;2025-11-24 21:51:39.000;true;true;130
+448;Tomato Sauce Jar Small Pack;36.89;14;A;2025-11-24 21:51:39.000;true;false;67
+449;Tomato Sauce Jar Family Pack;17.23;14;C;2025-11-24 21:51:39.000;false;false;29
+450;Olives in Brine Premium;5.66;14;C;2025-11-24 21:51:39.000;true;true;67
+451;Olives in Brine Classic;38.21;14;A;2025-11-24 21:51:39.000;false;false;89
+452;Tomato Sauce Jar Classic #7;22.57;14;A;2025-11-24 21:51:39.000;false;true;84
+453;Olives in Brine Premium #8;29.84;14;A;2025-11-24 21:51:39.000;false;false;161
+454;Chickpeas in Brine Family Pack;29.57;14;C;2025-11-24 21:51:39.000;true;true;11
+455;Chickpeas in Brine Classic;10.09;14;B;2025-11-24 21:51:39.000;true;false;10
+456;Chickpeas in Brine Premium;5.05;14;C;2025-11-24 21:51:39.000;true;false;135
+457;Beans in Water Family Pack;28.75;14;A;2025-11-24 21:51:39.000;true;true;143
+458;Chickpeas in Brine Premium #13;18.88;14;C;2025-11-24 21:51:39.000;true;true;139
+459;Sweet Corn Small Pack;3.92;14;C;2025-11-24 21:51:39.000;true;false;179
+460;Sweet Corn Family Pack;12.38;14;B;2025-11-24 21:51:39.000;false;false;91
+461;Chickpeas in Brine Premium #16;10.11;14;A;2025-11-24 21:51:39.000;true;true;49
+462;Beans in Water Family Pack #17;18.53;14;B;2025-11-24 21:51:39.000;false;true;147
+463;Tomato Sauce Jar Family Pack #18;18.62;14;B;2025-11-24 21:51:39.000;false;true;33
+464;Sweet Corn Premium;33.23;14;C;2025-11-24 21:51:39.000;true;true;93
+465;Sweet Corn Classic;28.74;14;B;2025-11-24 21:51:39.000;false;true;86
+466;Tomato Sauce Jar Family Pack #21;2.21;14;B;2025-11-24 21:51:39.000;false;true;34
+467;Chickpeas in Brine Classic #22;32.35;14;A;2025-11-24 21:51:39.000;true;true;25
+468;Sweet Corn Family Pack #23;8.73;14;B;2025-11-24 21:51:39.000;false;true;159
+469;Olives in Brine Premium #24;36.78;14;A;2025-11-24 21:51:39.000;true;true;60
+470;Chickpeas in Brine Family Pack #25;4.59;14;B;2025-11-24 21:51:39.000;true;true;128
+471;Beans in Water Family Pack #26;37.04;14;B;2025-11-24 21:51:39.000;false;false;17
+472;Chickpeas in Brine Small Pack;7.74;14;A;2025-11-24 21:51:39.000;true;false;81
+473;Chickpeas in Brine Family Pack #28;2.35;14;C;2025-11-24 21:51:39.000;true;false;137
+474;Chickpeas in Brine;19.68;14;A;2025-11-24 21:51:39.000;false;false;45
+475;Chickpeas in Brine Family Pack #30;26.06;14;C;2025-11-24 21:51:39.000;true;true;107
+476;Green Tea Small Pack;22.24;15;B;2025-11-24 21:51:39.000;false;false;109
+477;Green Tea Family Pack;2.02;15;C;2025-11-24 21:51:39.000;true;true;81
+478;Arabica Coffee Beans Small Pack;21.65;15;C;2025-11-24 21:51:39.000;true;true;35
+479;Ground Coffee Medium Roast Family Pack;11.39;15;C;2025-11-24 21:51:39.000;true;true;157
+480;Herbal Tea Calm Premium;37.47;15;A;2025-11-24 21:51:39.000;true;true;161
+481;Green Tea Premium;36.65;15;A;2025-11-24 21:51:39.000;false;true;154
+482;Ground Coffee Medium Roast Small Pack;22.14;15;A;2025-11-24 21:51:39.000;false;true;33
+483;Arabica Coffee Beans Family Pack;24.46;15;A;2025-11-24 21:51:39.000;false;true;94
+484;Black Tea Classic Family Pack;32.45;15;B;2025-11-24 21:51:39.000;true;false;25
+485;Arabica Coffee Beans Family Pack #10;23.88;15;A;2025-11-24 21:51:39.000;true;false;28
+486;Green Tea Small Pack #11;23.85;15;B;2025-11-24 21:51:39.000;false;false;44
+487;Ground Coffee Medium Roast Small Pack #12;31.88;15;B;2025-11-24 21:51:39.000;false;true;153
+488;Black Tea Classic Premium;9.71;15;C;2025-11-24 21:51:39.000;true;false;88
+489;Green Tea Family Pack #14;7.93;15;A;2025-11-24 21:51:39.000;false;true;56
+490;Black Tea Classic Premium #15;36.92;15;C;2025-11-24 21:51:39.000;true;true;137
+491;Ground Coffee Medium Roast Premium;30.07;15;A;2025-11-24 21:51:39.000;false;false;52
+492;Arabica Coffee Beans Premium;18.42;15;B;2025-11-24 21:51:39.000;true;true;27
+493;Green Tea Premium #18;31.69;15;C;2025-11-24 21:51:39.000;true;true;108
+494;Herbal Tea Calm Small Pack;38.79;15;B;2025-11-24 21:51:39.000;false;false;99
+495;Black Tea Classic Small Pack;4.96;15;B;2025-11-24 21:51:39.000;true;true;125
+496;Arabica Coffee Beans Classic;12.5;15;B;2025-11-24 21:51:39.000;false;true;28
+497;Green Tea Family Pack #22;35.63;15;A;2025-11-24 21:51:39.000;true;true;96
+498;Black Tea Classic;35.84;15;C;2025-11-24 21:51:39.000;true;false;177
+499;Ground Coffee Medium Roast;35.7;15;A;2025-11-24 21:51:39.000;true;true;94
+500;Ground Coffee Medium Roast Family Pack #25;16.96;15;C;2025-11-24 21:51:39.000;false;false;86
+501;Ground Coffee Medium Roast Classic;2.94;15;C;2025-11-24 21:51:39.000;false;true;23
+502;Green Tea Classic;17.68;15;B;2025-11-24 21:51:39.000;false;true;34
+503;Arabica Coffee Beans Family Pack #28;7.66;15;B;2025-11-24 21:51:39.000;true;false;39
+504;Green Tea Small Pack #29;19.37;15;C;2025-11-24 21:51:39.000;false;true;174
+505;Black Tea Classic Small Pack #30;8.21;15;B;2025-11-24 21:51:39.000;false;true;124
+506;new_product_1;100.00;1;A;2026-07-27 21:00:53.512;true;false;3
